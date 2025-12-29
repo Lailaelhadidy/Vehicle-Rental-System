@@ -101,7 +101,3 @@ Each vehicle type follows its own pricing strategy, demonstrating runtime polymo
 - Encapsulation
 - Static Variables & Methods
 - Arrays and Loops
-
----
-
-## ▶️ Sample Output
